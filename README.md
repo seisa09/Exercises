@@ -1,0 +1,2 @@
+# Exercises
+Handwritten exercises
